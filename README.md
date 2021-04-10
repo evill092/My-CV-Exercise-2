@@ -16,13 +16,15 @@ Public employee knowleadge in: research techniques, data collection/analysis, re
 
 
 # California State Polytechnic University, Pomona
-Bachelor of Science: Public Relations/Marketing | June 2014
+Bachelor of Science: Public Relations/Marketing 
 GPA: 3.9
+`2008-2014`
 
 
 # University of California, Riverside
 Master of Public Policy | Expected Graduation: June 2021
 GPA: 3.8
+`Sept 2019 - June 2021`
 
 # Current Job: Omnitrans - Paratransit Data Analyst | May 2017 - current
 Compile data and organize reports for Omnitrans publications
