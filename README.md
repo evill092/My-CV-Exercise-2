@@ -5,8 +5,6 @@
 # Esteban Villegas
 Urban Planner, Data Analyst, Excel Intermediate, UCR 2021 MPP Student, DIY Home Project Beginner.
 
-<div id="emailaddress">
-<a href="esteban.villegas90@yahoo.com"></a>
   <a href="https:https://www.gosbcta.com/project/west-valley-connector-brt/">A little bit of the work I do</a>
   </div>
 
